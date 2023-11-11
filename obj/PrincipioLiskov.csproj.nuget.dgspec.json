@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Documents\\Trabajos_Net\\PrincipioLiskov\\PrincipioLiskov.csproj": {}
+    "C:\\Users\\Estudiantes\\Source\\Repos\\Liskov\\PrincipioLiskov.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Documents\\Trabajos_Net\\PrincipioLiskov\\PrincipioLiskov.csproj": {
+    "C:\\Users\\Estudiantes\\Source\\Repos\\Liskov\\PrincipioLiskov.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\Trabajos_Net\\PrincipioLiskov\\PrincipioLiskov.csproj",
+        "projectUniqueName": "C:\\Users\\Estudiantes\\Source\\Repos\\Liskov\\PrincipioLiskov.csproj",
         "projectName": "PrincipioLiskov",
-        "projectPath": "C:\\Users\\LENOVO\\Documents\\Trabajos_Net\\PrincipioLiskov\\PrincipioLiskov.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Documents\\Trabajos_Net\\PrincipioLiskov\\obj\\",
+        "projectPath": "C:\\Users\\Estudiantes\\Source\\Repos\\Liskov\\PrincipioLiskov.csproj",
+        "packagesPath": "C:\\Users\\Estudiantes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudiantes\\Source\\Repos\\Liskov\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudiantes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hz+2klG+fnyUkPhAU6gbODBpgiBFaah8FbYhnuPA5Hjla4GKbMl/LphXJrRarfrydEn5chji9y1Aa+3ByqeM0w==",
+  "dgSpecHash": "n/pRzQoFg0lxsfVGAvUnjvN00l3rJKJ3UBfHxJRqC2KYVx3QW5w1pVFN2DpntUQn2Ac2/ugnzO7WFGQPiSEFiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\Trabajos_Net\\PrincipioLiskov\\PrincipioLiskov.csproj",
+  "projectFilePath": "C:\\Users\\Estudiantes\\Source\\Repos\\Liskov\\PrincipioLiskov.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
