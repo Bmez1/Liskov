@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\bin\Debug\net7.0\PrincipioLiskov.exe
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\bin\Debug\net7.0\PrincipioLiskov.deps.json
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\bin\Debug\net7.0\PrincipioLiskov.runtimeconfig.json
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\bin\Debug\net7.0\PrincipioLiskov.dll
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\bin\Debug\net7.0\PrincipioLiskov.pdb
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\PrincipioLiskov.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\PrincipioLiskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\PrincipioLiskov.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\PrincipioLiskov.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\PrincipioLiskov.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\PrincipioLiskov.dll
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\refint\PrincipioLiskov.dll
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\PrincipioLiskov.pdb
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\PrincipioLiskov.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Trabajos_Net\PrincipioLiskov\obj\Debug\net7.0\ref\PrincipioLiskov.dll
